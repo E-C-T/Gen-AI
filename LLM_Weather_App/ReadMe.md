@@ -38,9 +38,9 @@ streamlit run /path/to/script/Weather_App.py
 You should now see Streamlit User Interface appear in your browser at a localhost port.
 
 *  Screenshot of Streamlit User Interface 
-![app_fp](https://github.com/14-825-GenAI-and-LLM/course-project-E-C-T/blob/main/app_fp.jpg?raw=true)
+![app_fp](https://github.com/E-C-T/Gen-AI/blob/main/LLM_Weather_App/app_fp.jpg?raw=true)
 * A screenshot of the output of the question “Hows the wether it n seattle ?”
-![app_demo](https://github.com/14-825-GenAI-and-LLM/course-project-E-C-T/blob/main/app_demo.jpg?raw=true)
+![app_demo](https://github.com/E-C-T/Gen-AI/blob/main/LLM_Weather_App/app_demo.jpg?raw=true)
 
 
 # Model Assessments
@@ -67,7 +67,7 @@ The Image Generation Model Accuracy was evaluated through the combination of pro
   - gemini-pro
   - text-bison@001
   - text-bison@002
-![LLM_Eval](https://github.com/14-825-GenAI-and-LLM/course-project-E-C-T/blob/main/Fine_Grained_Assesment_LLM_models.png?raw=true)
+![LLM_Eval](https://github.com/E-C-T/Gen-AI/blob/main/LLM_Weather_App/Fine_Grained_Assesment_LLM_models.png?raw=true)
 
 
 ## Image Generation Model

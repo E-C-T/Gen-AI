@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "app"
+version = "0.1.0"
+description = "\"Conversational AI project.\""
+authors = ["E-C-T"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+uvicorn = ">=0.23.2,<0.24.0"
+langserve = "^0.1.0"
+pydantic = "^2.7.0"
+langchain = "^0.1.16"
+langchain-core = "^0.1.45"
+langchain-google-vertexai = "^1.0.1"
+langchain-chroma = "^0.1.0"
+bs4 = "^0.0.2"
+
+[tool.poetry.group.dev.dependencies]
+langchain-cli = ">=0.0.15"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
